@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.viewlist{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.btn{
+    width: 25%;
+    padding: .7rem;
+    color: white;
+    background-color:#4285F4 ;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: .5rem;
+}
+.image{
+    width: 350px;
+    height: 200px;
+    padding: .8rem;
+    margin: .5rem;
+    border: solid 1px lightgrey;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
