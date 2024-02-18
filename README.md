@@ -2,7 +2,7 @@
 
   
 ## Özet
-Bu proje, ReactJS kullanarak oluşturulmuş basit bir rastgele manzara resim uygulamasıdır. Kullanıcılar "Manzara Oluştur" butonuna basarak kayıtlı resimlerden rastgele bir tanesini görüntüleyebilir.
+Bu proje, ReactJS kullanarak oluşturulmuş basit bir rastgele manzara resim uygulamasıdır. Kullanıcılar "Manzara Getir" butonuna basarak kayıtlı resimlerden rastgele bir tanesini görüntüleyebilir.
   
 
 ##  Özellikler
